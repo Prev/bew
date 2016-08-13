@@ -17,4 +17,5 @@ def classify():
 	return json.dumps(output), 200, {'Content-Type': 'application/json'}
 
 if __name__ == '__main__':
-	app.run(debug = True, port=18887, host='localhost')
+	app.run(debug = True, port=18887, host='0.0.0.0')
+	#app.run(debug = True, port=18887, host='localhost')

@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 # Author: YoungSoo Lee(prevdev@gmail.com)
 
-
-#from konlpy.tag import Kkma
 import re
 import string
-
-#kkma = Kkma()
 
 
 class Filter() :
