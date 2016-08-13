@@ -1,0 +1,655 @@
+pid:		160318
+product:	[4%즉시할인쿠폰][해외] HDMI Audio Converter 최저가 해외구매대행 전문서비스
+real:		디지털/가전;음향가전;DAC
+est:		디지털/가전;음향가전;MD플레이어
+ 
+pid:		134070
+product:	휴바이론 SK-RP04
+real:		디지털/가전;멀티미디어장비;DVR
+est:		디지털/가전;멀티미디어장비;PC카메라
+ 
+pid:		134546
+product:	USB 외장형 COMBO ODD [PCD9216]
+real:		디지털/가전;멀티미디어장비;Divx플레이어
+est:		디지털/가전;저장장치;ODD
+ 
+pid:		134585
+product:	ipTIME 공유기 NAS-I (NAS / 3.5인치 1베이 / HDD 미탑재 / 기가비트 유선) [PCD0563]
+real:		디지털/가전;멀티미디어장비;Divx플레이어
+est:		디지털/가전;저장장치;NAS
+ 
+pid:		134588
+product:	USB 외장형 DVD MULTI ODD [PCD9217]
+real:		디지털/가전;멀티미디어장비;Divx플레이어
+est:		디지털/가전;저장장치;ODD
+ 
+pid:		134593
+product:	[4%즉시할인쿠폰](C) HDD 케이스 (3.5인치)  폴더접이식(색상; Black
+real:		디지털/가전;멀티미디어장비;Divx플레이어
+est:		디지털/가전;저장장치;ODD
+ 
+pid:		134595
+product:	Coms KVM USB 스위치(4:1)
+real:		디지털/가전;멀티미디어장비;Divx플레이어
+est:		디지털/가전;네트워크장비;KVM스위치
+ 
+pid:		246735
+product:	애플 AIP6P-64G (iPhone 6 Plus)[기기변경]
+real:		디지털/가전;휴대폰;KT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		246736
+product:	LG전자 LG모바일 LG-F320K 32G (G2)[번호이동]
+real:		디지털/가전;휴대폰;KT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		246739
+product:	삼성전자 SM-G850K 32G (Galaxy Alpha)[신규가입]
+real:		디지털/가전;휴대폰;KT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		246741
+product:	LG전자 LG-F460K 32G (G3 cat.6)[번호이동]
+real:		디지털/가전;휴대폰;KT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		246744
+product:	삼성전자 갤럭시 SHV-E310K 16G (GALAXY MEGA)[신규가입]
+real:		디지털/가전;휴대폰;KT
+est:		디지털/가전;휴대폰;SKT
+ 
+pid:		118853
+product:	[6%즉시할인쿠폰](DA)KVM 연장 케이블 10M
+real:		디지털/가전;네트워크장비;KVM스위치
+est:		디지털/가전;네트워크장비;KVM케이블
+ 
+pid:		118891
+product:	[6%즉시할인쿠폰](DA)KVM M/M 케이블 3M/5M(택일)
+real:		디지털/가전;네트워크장비;KVM스위치
+est:		디지털/가전;네트워크장비;KVM케이블
+ 
+pid:		118902
+product:	KVM 2in1 고급형 3M(RGB)통합 [PCD9592]
+real:		디지털/가전;네트워크장비;KVM스위치
+est:		디지털/가전;네트워크장비;KVM케이블
+ 
+pid:		118904
+product:	NETmate KVM 연장(RGB) 케이블 10M (ST포함) [PCD1049]
+real:		디지털/가전;네트워크장비;KVM스위치
+est:		디지털/가전;네트워크장비;KVM케이블
+ 
+pid:		118925
+product:	강원전자NETmate USB TO AUDIO(USB 오디오)
+real:		디지털/가전;네트워크장비;KVM스위치
+est:		디지털/가전;PC액세서리;USB액세서리
+ 
+pid:		119431
+product:	[PCD]NETmate USB KVM 2:1 스위치
+real:		디지털/가전;네트워크장비;KVM케이블
+est:		디지털/가전;네트워크장비;KVM스위치
+ 
+pid:		119452
+product:	[강원전자]NETmate KVM 4:1 스위치(보급형-케이블포함)[KVM스위치][키보드][마우스][모니터][컴퓨터][IC-61[ 당일출발상품입니다 ]
+real:		디지털/가전;네트워크장비;KVM케이블
+est:		디지털/가전;네트워크장비;KVM스위치
+ 
+pid:		161009
+product:	FiiO X5
+real:		디지털/가전;음향가전;MP3
+est:		디지털/가전;음향가전;DAC
+ 
+pid:		161023
+product:	[삼성카드5%할인~15일까지][삼성정품] 삼성전자 헤드셋 레벨 인 Level In-ear
+real:		디지털/가전;음향가전;MP3
+est:		디지털/가전;멀티미디어장비;PC헤드셋
+ 
+pid:		161060
+product:	[5%즉시할인쿠폰]LG  OPTIMUS G3 안테나 (골드.그레이)
+real:		디지털/가전;음향가전;MP3
+est:		디지털/가전;멀티미디어장비;TV카드
+ 
+pid:		188962
+product:	[KB국민카드 5%할인, 3/14]HGST DESKSTAR NAS 5TB 128MB BOX 정품 [HDN726050ALE610_BOX_3년] 하드디스크 (3.5 데스크탑 & NAS
+real:		디지털/가전;저장장치;NAS
+est:		디지털/가전;저장장치;HDD
+ 
+pid:		189017
+product:	[시게이트] NAS & 서버용 3.5형 HDD 컨스텔레이션 CS SATA3 4TB / 64MB / 7200RPM (ST4000NC001)
+real:		디지털/가전;저장장치;NAS
+est:		디지털/가전;저장장치;HDD
+ 
+pid:		189026
+product:	HGST 2.5 서버용 하드 Ultrastar C15K600 300GB HDD [HUC156030CSS200] (SAS 12Gb/s / 15K RPM / 128MB)
+real:		디지털/가전;저장장치;NAS
+est:		디지털/가전;저장장치;HDD
+ 
+pid:		189541
+product:	컴퓨터주변기기 컴스 콩스토어
+real:		디지털/가전;저장장치;ODD
+est:		디지털/가전;PC액세서리;PC받침대
+ 
+pid:		135006
+product:	[네이쳐리빙] 네이쳐 만능커버신발장(대)6단12족_P020731541
+real:		디지털/가전;멀티미디어장비;PC마이크
+est:		디지털/가전;PC액세서리;PC받침대
+ 
+pid:		135022
+product:	[바보사랑(키덜트,취미)] 바보사랑[페이크북]복불복 빙글빙글 원샷게임_P021630142
+real:		디지털/가전;멀티미디어장비;PC마이크
+est:		디지털/가전;PC액세서리;PC홀더/브라켓
+ 
+pid:		135027
+product:	COMS Microphone
+real:		디지털/가전;멀티미디어장비;PC마이크
+est:		디지털/가전;음향가전;MD플레이어
+ 
+pid:		95649
+product:	1300K 아리아라 고급 가죽 메탈 모니터 받침 아직은 오렌지
+real:		디지털/가전;PC액세서리;PC받침대
+est:		디지털/가전;모니터주변기기;기타모니터주변기기
+ 
+pid:		91964
+product:	HELLO-Q
+real:		디지털/가전;PC부품;PC케이스
+est:		패션의류;아동의류;스키복
+ 
+pid:		136684
+product:	앱코 EH100
+real:		디지털/가전;멀티미디어장비;PC헤드셋
+est:		디지털/가전;PC부품;PC케이스
+ 
+pid:		136687
+product:	필립스 SHM1500K
+real:		디지털/가전;멀티미디어장비;PC헤드셋
+est:		디지털/가전;이미용가전;기타이미용가전
+ 
+pid:		136711
+product:	코시 COV903
+real:		디지털/가전;멀티미디어장비;PC헤드셋
+est:		디지털/가전;멀티미디어장비;PC마이크
+ 
+pid:		136717
+product:	코시 HS652SG
+real:		디지털/가전;멀티미디어장비;PC헤드셋
+est:		디지털/가전;멀티미디어장비;PC마이크
+ 
+pid:		136720
+product:	[4%즉시할인쿠폰](ITA873) 마이크(이어걸이형)  XTY-7
+real:		디지털/가전;멀티미디어장비;PC헤드셋
+est:		디지털/가전;멀티미디어장비;PC마이크
+ 
+pid:		248526
+product:	애플 AIP6-16G (iPhone 6)[기기변경]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248528
+product:	삼성전자 SM-G720N0S (Galaxy Grand Max)[기기변경]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248529
+product:	삼성전자 SM-N910S 32G (Galaxy Note4)[신규가입]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248534
+product:	애플 AIP6P-64G (iPhone 6 Plus)[신규가입]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248537
+product:	LG전자 LG모바일 LG-F350S 32G (G Pro 2)[신규가입]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248543
+product:	[새제품] LGU+ 2G폰 공기계 와인폰 LG-LB4400 효도폰 폴더폰 LGT  미사용 박스풀셋
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;공기계/중고폰
+ 
+pid:		248544
+product:	[5%즉시할인쿠폰] 하나TV  인테넷 만족최고
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;LG U+
+ 
+pid:		248550
+product:	[KT 번호이동]넥서스5 [186,100원][24개월][순완전무한77요금제기준][가입비분납][유심후납][위약금유][부가무]
+real:		디지털/가전;휴대폰;SKT
+est:		디지털/가전;휴대폰;KT
+ 
+pid:		155943
+product:	[4%즉시할인쿠폰][해외]UpBright NEW AC Adapter For LG Electronics 24EN... [해외쇼핑/아마존상품/해외정품]
+real:		디지털/가전;영상가전;TV
+est:		디지털/가전;주변기기;PDA/MID/UMPC
+ 
+pid:		137314
+product:	바보사랑[레프리카]벤츠 SLS AMG USB 8GB (WE045073RE) USB 메모리[무료배송]
+real:		디지털/가전;멀티미디어장비;TV카드
+est:		디지털/가전;저장장치;USB메모리
+ 
+pid:		96781
+product:	ACTTO/엑토 젤 손목보호대 WP-02
+real:		디지털/가전;PC액세서리;USB액세서리
+est:		디지털/가전;노트북액세서리;기타노트북액세서리
+ 
+pid:		193702
+product:	LG전자 HBA6332CN
+real:		디지털/가전;주방가전;가스레인지
+est:		디지털/가전;영상가전;TV
+ 
+pid:		194557
+product:	DS-3001
+real:		디지털/가전;주방가전;가스레인지후드
+est:		디지털/가전;멀티미디어장비;DVR
+ 
+pid:		104321
+product:	동양매직 VSH-20H 
+real:		디지털/가전;계절가전;가습기
+est:		디지털/가전;주방가전;가스레인지
+ 
+pid:		104331
+product:	LG전자 H-89HSP
+real:		디지털/가전;계절가전;가습기
+est:		디지털/가전;영상가전;TV
+ 
+pid:		102032
+product:	[해외]Marvel Ultimate Alliance - PC [해외쇼핑/아마존상품/해외정품]
+real:		디지털/가전;게임기/타이틀;가정용게임기
+est:		디지털/가전;게임기/타이틀;PC게임
+ 
+pid:		102073
+product:	[닌텐도 3DS]닌텐도 3DS XL본체 + 마리오카트7
+real:		디지털/가전;게임기/타이틀;가정용게임기
+est:		디지털/가전;게임기/타이틀;게임타이틀
+ 
+pid:		153581
+product:	[당일배송 바로출발] Adobe Photoshop CS6 (처음사용자용 한글 윈도우) [정품, 빠른배송][다나와연동몰 매출1위/고객만족도 최우수업체]
+real:		디지털/가전;소프트웨어;개발툴
+est:		디지털/가전;소프트웨어;그래픽/멀티미디어
+ 
+pid:		142285
+product:	LG전자 RN1044VA
+real:		디지털/가전;생활가전;건조기/탈수기
+est:		디지털/가전;영상가전;TV
+ 
+pid:		142286
+product:	LG전자 RN1044EA
+real:		디지털/가전;생활가전;건조기/탈수기
+est:		디지털/가전;영상가전;TV
+ 
+pid:		102553
+product:	PS4 플레이스테이션 소니 듀얼쇼크4 무선컨트롤러 블랙
+real:		디지털/가전;게임기/타이틀;게임기주변기기
+est:		디지털/가전;게임기/타이틀;가정용게임기
+ 
+pid:		102561
+product:	[해외] PC 로지텍 어택 3 조이스틱 해외 정품 직배송
+real:		디지털/가전;게임기/타이틀;게임기주변기기
+est:		디지털/가전;게임기/타이틀;PC게임
+ 
+pid:		102568
+product:	[해외]NintendoNintendo Wii Remote Plus - White
+real:		디지털/가전;게임기/타이틀;게임기주변기기
+est:		디지털/가전;게임기/타이틀;가정용게임기
+ 
+pid:		102583
+product:	[닌텐도DS3DS액세서리] (NDSL 닌텐도) ANGEL액정보호
+real:		디지털/가전;게임기/타이틀;게임기주변기기
+est:		디지털/가전;게임기/타이틀;게임타이틀
+ 
+pid:		102604
+product:	[해외]AC Adapter [KMD]
+real:		디지털/가전;게임기/타이틀;게임기주변기기
+est:		디지털/가전;주변기기;PDA/MID/UMPC
+ 
+pid:		103139
+product:	EA SSX 온 투어
+real:		디지털/가전;게임기/타이틀;게임타이틀
+est:		디지털/가전;게임기/타이틀;PC게임
+ 
+pid:		103149
+product:	PC 이볼브 한글판 예약판매 / 2월 9일 출고
+real:		디지털/가전;게임기/타이틀;게임타이틀
+est:		디지털/가전;게임기/타이틀;PC게임
+ 
+pid:		104975
+product:	LG전자 LDJ106APSP
+real:		디지털/가전;계절가전;공기정화기
+est:		디지털/가전;영상가전;TV
+ 
+pid:		191300
+product:	[4%즉시할인쿠폰](C)USB 3.0/Micro USB(B) 케이블 1.5M  White -갤럭시
+real:		디지털/가전;저장장치;공미디어
+est:		디지털/가전;PC부품;PC케이블
+ 
+pid:		191304
+product:	[4%즉시할인쿠폰](C)USB 3.0/Micro USB(B) 케이블 1.5M  White -갤럭시
+real:		디지털/가전;저장장치;공미디어
+est:		디지털/가전;PC부품;PC케이블
+ 
+pid:		153900
+product:	[해외]  해외빠른배송  뉴욕매니아 Vivendi Universal/Vivend 해외 정품 직배송
+real:		디지털/가전;소프트웨어;그래픽/멀티미디어
+est:		디지털/가전;소프트웨어;개발툴
+ 
+pid:		153904
+product:	[해외]  해외빠른배송  뉴욕매니아 MyfotoSource/MyfotoSourc 해외 정품 직배송
+real:		디지털/가전;소프트웨어;그래픽/멀티미디어
+est:		디지털/가전;소프트웨어;개발툴
+ 
+pid:		92879
+product:	[그래픽카드] NETmate IEEE1394A 2+1포트 PCI Express
+real:		디지털/가전;PC부품;그래픽카드
+est:		디지털/가전;네트워크장비;기타네트워크장비
+ 
+pid:		97377
+product:	[4%즉시할인쿠폰]광패치코드 OM310G-SC-LC 3m/5m
+real:		디지털/가전;PC액세서리;기타PC액세서리
+est:		디지털/가전;PC부품;PC케이블
+ 
+pid:		97404
+product:	[4%즉시할인쿠폰]ACTTO/엑토 OTG 어댑터 OTG-03
+real:		디지털/가전;PC액세서리;기타PC액세서리
+est:		디지털/가전;저장장치;USB메모리
+ 
+pid:		120434
+product:	[6%즉시할인쿠폰]EFM네트웍스 ipTIME mini 무선AP 안전포장 MH
+real:		디지털/가전;네트워크장비;기타네트워크장비
+est:		디지털/가전;네트워크장비;공유기
+ 
+pid:		120441
+product:	[6%즉시할인쿠폰][ATEN]CE250A/KVM 연장기 CE250A/PS/2 KVM Extender/U
+real:		디지털/가전;네트워크장비;기타네트워크장비
+est:		디지털/가전;네트워크장비;KVM스위치
+ 
+pid:		120459
+product:	[AK몰/바보사랑]  [바보사랑]Laptop skin-lace
+real:		디지털/가전;네트워크장비;기타네트워크장비
+est:		디지털/가전;PC액세서리;PC홀더/브라켓
+ 
+pid:		120478
+product:	cmro TNT 허브랙/서버랙 110블럭 50P(1U) NM-TNT72
+real:		디지털/가전;네트워크장비;기타네트워크장비
+est:		디지털/가전;PC액세서리;기타PC액세서리
+ 
+pid:		120479
+product:	TNT 허브랙/서버랙 110블럭 50P(1U) [NM-TNT72]
+real:		디지털/가전;네트워크장비;기타네트워크장비
+est:		디지털/가전;PC액세서리;기타PC액세서리
+ 
+pid:		128634
+product:	바보사랑[진바스]고감도 스탠드 마이크 MICROPHONE
+real:		디지털/가전;노트북액세서리;기타노트북액세서리
+est:		디지털/가전;멀티미디어장비;PC마이크
+ 
+pid:		128638
+product:	바보사랑[디자인에버]고감도 스탠드 마이크 MICROPHONE[무료배송]
+real:		디지털/가전;노트북액세서리;기타노트북액세서리
+est:		디지털/가전;멀티미디어장비;PC마이크
+ 
+pid:		128639
+product:	바보사랑[라비또]rabito Cable Holder(1pcs) Yellow
+real:		디지털/가전;노트북액세서리;기타노트북액세서리
+est:		디지털/가전;PC액세서리;PC홀더/브라켓
+ 
+pid:		140258
+product:	Coms DVI-I 듀얼 케이블, 5M [PCD2361]
+real:		디지털/가전;모니터주변기기;기타모니터주변기기
+est:		디지털/가전;PC부품;PC케이블
+ 
+pid:		140314
+product:	KVM 케이블 -KVM-15MF 10M [PCD3337]
+real:		디지털/가전;모니터주변기기;기타모니터주변기기
+est:		디지털/가전;네트워크장비;KVM케이블
+ 
+pid:		140321
+product:	[4%즉시할인쿠폰]AKMALL  Fellowes  펠로우즈 80350 Office Suit 풋레스트
+real:		디지털/가전;모니터주변기기;기타모니터주변기기
+est:		디지털/가전;PC액세서리;PC받침대
+ 
+pid:		172776
+product:	(새상품) (정품) 유닉스 스트레이터 UCI-2932A / 고데기[새상품 빠른배송]
+real:		디지털/가전;이미용가전;기타이미용가전
+est:		디지털/가전;이미용가전;고데기
+ 
+pid:		191783
+product:	Sandisk_USB_Orbit 16GB
+real:		디지털/가전;저장장치;기타저장장치
+est:		디지털/가전;저장장치;USB메모리
+ 
+pid:		828555
+product:	[8% 즉시할인](AK몰)(TNGT)그린 린넨혼방 라운드 니트 TGD05A103GR
+real:		패션의류;남성의류;가디건
+est:		패션의류;남성의류;니트/스웨터
+ 
+pid:		828730
+product:	[BC카드5%할인]MC옴므 스타디움 라인 네오프렌 블루종 점퍼 (R215S05_B)
+real:		패션의류;남성의류;니트/스웨터
+est:		패션의류;남성의류;점퍼
+ 
+pid:		828778
+product:	[미넴옴므] {티셔츠}니트배색맨투맨{T677_TBSSS}[[]
+real:		패션의류;남성의류;니트/스웨터
+est:		패션의류;남성의류;티셔츠
+ 
+pid:		828788
+product:	[잭앤질(JACK&JILL)]남성 레터링풀오버 31151SR009
+real:		패션의류;남성의류;니트/스웨터
+est:		패션의류;아동의류;블라우스
+ 
+pid:		826012
+product:	[AK몰/엘르이너]  [엘르이너] 블랙면소재남성머슬런닝 [EHR7112]
+real:		패션의류;남성언더웨어/잠옷;런닝
+est:		패션의류;남성언더웨어/잠옷;팬티
+ 
+pid:		826017
+product:	[AK PLAZA][비비안]수피마면남성런닝팬티세트(RU1342TP9342)
+real:		패션의류;남성언더웨어/잠옷;런닝
+est:		패션의류;남성언더웨어/잠옷;런닝팬티세트
+ 
+pid:		826418
+product:	[AK몰/비비안(속옷)]  [비비안]수미파면남성트렁크팬티(TP9342)
+real:		패션의류;남성언더웨어/잠옷;런닝팬티세트
+est:		패션의류;여성언더웨어/잠옷;런닝/캐미솔
+ 
+pid:		838638
+product:	[무냐무냐](아동)무냐핑크곰곰잠옷(14&quot;정상 MCXBBFEA01)
+real:		패션의류;아동의류;레깅스
+est:		패션의류;아동언더웨어/잠옷;브라
+ 
+pid:		829108
+product:	[TOKIO] 플레인 레인 코트 (네이비)_P015349417
+real:		패션의류;남성의류;레인코트
+est:		패션의류;남성의류;코트
+ 
+pid:		829123
+product:	팬콧 키즈  팝훈트 베이스볼 스커트(PKOIPSK01WC4)
+real:		패션의류;남성의류;레인코트
+est:		패션의류;여성의류;스커트
+ 
+pid:		839198
+product:	엘리샤 하프 드레스
+real:		패션의류;아동의류;발레복/댄스복
+est:		패션의류;아동의류;파티복/드레스
+ 
+pid:		839253
+product:	[19% 즉시할인][대구백화점 II관] [에스크주니어]분또 플레어 원피스(JV1MOP102FL)
+real:		패션의류;아동의류;발레복/댄스복
+est:		패션의류;아동의류;원피스
+ 
+pid:		847237
+product:	[AK몰/엘르이너]  [엘르이너]파스텔 면스판 브라팬티 드로즈 커플SET ESB1245ESP2245EHD5245 MT
+real:		패션의류;여성언더웨어/잠옷;브라팬티세트
+est:		패션의류;남성언더웨어/잠옷;팬티
+ 
+pid:		839859
+product:	[캘빈클라인진] 여성 트레이닝 면 팬츠(J202283)
+real:		패션의류;아동의류;블라우스
+est:		패션의류;남성의류;트레이닝복
+ 
+pid:		829990
+product:	[미넴옴므] {티셔츠}엠보지퍼포켓맨투맨{T676_TBSSS}
+real:		패션의류;남성의류;셔츠/남방
+est:		패션의류;남성의류;티셔츠
+ 
+pid:		830000
+product:	[BC카드5%할인][로가디스] 네이비 스트라이프 라운드넥 티셔츠 (RA4741002R)
+real:		패션의류;남성의류;셔츠/남방
+est:		패션의류;남성의류;티셔츠
+ 
+pid:		830035
+product:	[멋남][오가게/MUTNAM]플레이헨리넥셔츠
+real:		패션의류;남성의류;셔츠/남방
+est:		패션의류;남성의류;레인코트
+ 
+pid:		830042
+product:	[BIKE REPAIR SHOP] 블랙 뉴 테크 팩 MTM (BY49410095)
+real:		패션의류;남성의류;셔츠/남방
+est:		패션의류;아동의류;점프수트
+ 
+pid:		836455
+product:	까리제 [롯데백화점]별내리는마을3단계브라[UOBJB304S1]50수싱글스판
+real:		패션의류;아동언더웨어/잠옷;속치마/속바지
+est:		패션의류;아동언더웨어/잠옷;브라
+ 
+pid:		836516
+product:	무냐무냐 [롯데백화점]무냐숲속친구브라1 MAYACFFF10
+real:		패션의류;아동언더웨어/잠옷;속치마/속바지
+est:		패션의류;아동언더웨어/잠옷;브라
+ 
+pid:		836517
+product:	무냐무냐 [롯데백화점]무냐핑크스위트마법브리프 MAVBCFFJ03
+real:		패션의류;아동언더웨어/잠옷;속치마/속바지
+est:		패션의류;아동언더웨어/잠옷;브라
+ 
+pid:		836519
+product:	까리제 [롯데백화점]마법코스메틱1단계브라[UMBJB101O6]
+real:		패션의류;아동언더웨어/잠옷;속치마/속바지
+est:		패션의류;아동언더웨어/잠옷;브라
+ 
+pid:		860918
+product:	[18% 즉시할인][AK플라자](AK플라자)[팬콧]PANCOAT 키즈 팝훈트 베이스볼 스커트_PKOIPSK01WC4
+real:		패션의류;여성의류;스커트
+est:		패션의류;남성의류;레인코트
+ 
+pid:		860956
+product:	1300K 청트임SK
+real:		패션의류;여성의류;스커트
+est:		패션의류;남성언더웨어/잠옷;시즌성내의
+ 
+pid:		840575
+product:	[BC카드5%할인][젤리스푼][젤리스푼]핏이좋은컬러면팬츠_Mo[패션플러스]
+real:		패션의류;아동의류;스키복
+est:		패션의류;아동의류;레깅스
+ 
+pid:		840640
+product:	[AK몰]헬로키티 키즈 눈꽃 펄나염포인트 누빔스커트(YKBW2S42)
+real:		패션의류;아동의류;스키복
+est:		패션의류;아동의류;스커트
+ 
+pid:		840666
+product:	[KB국민카드5%할인~13일까지][베네통키즈]골지플레어니트폴오버QAKP02511
+real:		패션의류;아동의류;스키복
+est:		패션의류;아동의류;레깅스
+ 
+pid:		850226
+product:	[에블린]제시카_홀터슬립 [EBFL3SV011]
+real:		패션의류;여성언더웨어/잠옷;슬립
+est:		패션의류;여성언더웨어/잠옷;언더웨어소품
+ 
+pid:		850266
+product:	비비안 소프트 레이스네크라인 여성런닝(RU7270)
+real:		패션의류;여성언더웨어/잠옷;슬립
+est:		패션의류;여성언더웨어/잠옷;런닝/캐미솔
+ 
+pid:		827201
+product:	지오다노 [롯데백화점]남성용 스판덱스 슬랙스 115108
+real:		패션의류;남성언더웨어/잠옷;시즌성내의
+est:		패션의류;아동의류;블라우스
+ 
+pid:		827253
+product:	유지아이지 [롯데백화점]유니 기본 슬림 면팬츠(UCPX371)
+real:		패션의류;남성언더웨어/잠옷;시즌성내의
+est:		패션의류;아동의류;점프수트
+ 
+pid:		851547
+product:	에블린 슬립 EBFL249011
+real:		패션의류;여성언더웨어/잠옷;언더웨어소품
+est:		패션의류;여성언더웨어/잠옷;슬립
+ 
+pid:		851574
+product:	[대구백화점 I관] [비비안]꽃프린트여성원피스(PK)(GW8342A)
+real:		패션의류;여성언더웨어/잠옷;언더웨어소품
+est:		패션의류;여성언더웨어/잠옷;런닝/캐미솔
+ 
+pid:		861544
+product:	[핫핑] 펠루나잇
+real:		패션의류;여성의류;원피스
+est:		패션의류;여성의류;코디세트
+ 
+pid:		831163
+product:	[아디다스]아디다스 F50 트레이닝 팬츠 (D98255)
+real:		패션의류;남성의류;유니폼
+est:		패션의류;남성의류;트레이닝복
+ 
+pid:		831166
+product:	미래통상 깔깔이  바지(밀리터리)
+real:		패션의류;남성의류;유니폼
+est:		패션의류;남성의류;바지
+ 
+pid:		831314
+product:	[TBJ] 남여공용 미니쭈리 트레이닝 점퍼/팬츠 2종택1(T141Z5400P외)
+real:		패션의류;남성의류;재킷
+est:		패션의류;남성의류;트레이닝복
+ 
+pid:		841070
+product:	클라이드 [롯데백화점]남성 소매배색 체크 셔츠(CFA2SH515M)
+real:		패션의류;아동의류;점프수트
+est:		패션의류;남성의류;셔츠/남방
+ 
+pid:		841072
+product:	흄 [롯데백화점]유니_남녀공용 스타디움 점퍼 H151U171
+real:		패션의류;아동의류;점프수트
+est:		패션의류;남성의류;점퍼
+ 
+pid:		834085
+product:	[BC카드5%할인][FEELGOLD][필골드] k700nk701nk702 모직체크노턱정장바지[패션플러스]
+real:		패션의류;남성의류;코트
+est:		패션의류;남성의류;정장
+ 
+pid:		834781
+product:	[14% 즉시할인][롯데백화점]공용_성조기프린트패치스트라이프티셔츠 JG1TSU022/ 지프
+real:		패션의류;남성의류;티셔츠
+est:		패션의류;아동의류;점프수트
+ 
+pid:		834822
+product:	[옴파로스] 유니 캐주얼 체크 버튼다운 셔츠  2color
+real:		패션의류;남성의류;티셔츠
+est:		패션의류;남성의류;셔츠/남방
+ 
+pid:		834846
+product:	[3% 즉시할인](현대Hmall)[빈폴] 코럴 핑크 체크 면 셔츠 (BC4X640217)
+real:		패션의류;남성의류;티셔츠
+est:		패션의류;남성의류;셔츠/남방
+ 
+pid:		872353
+product:	[해외]White Mark Carmela
+real:		패션의류;여성의류;파티복
+est:		디지털/가전;저장장치;공미디어
+ 
+pid:		872439
+product:	[해외]Embroidered Romper
+real:		패션의류;여성의류;파티복
+est:		디지털/가전;저장장치;공미디어
+ 
+pid:		827665
+product:	[FiteX]피트엑스 아웃도어 고기능성 남성 ATB 롱 드로즈팬티/스포츠용 항균 흡한속건 언더레이어 팬티/3D 입체패턴
+real:		패션의류;남성언더웨어/잠옷;팬티
+est:		패션의류;남성언더웨어/잠옷;런닝팬티세트
+ 
+pid:		842706
+product:	[KB국민카드 5%할인, 3/14]Fidelia프론트리프팅로얄블루세트
+real:		패션의류;아동의류;한복
+est:		패션의류;아동의류;등산복
+ 
