@@ -5,17 +5,12 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.grid_search import GridSearchCV
 from sklearn.externals import joblib
-from konlpy.tag import Twitter
 
 train_df = pd.read_pickle("data/soma_goods_train.df")
 
 
 def get_cate(each) :
 	return ";".join([each[1]['cate1'],each[1]['cate2'],each[1]['cate3']])
-
-
-# 트위터 형태소 분석기
-tw = Twitter()
 
 
 # 이름 필터
@@ -32,18 +27,13 @@ d_list = []
 cate_list = []
 
 
-i = 0
-
 # d_list 및 cate_list 파싱
 for each in train_df.iterrows() :
-	# i += 1
-	# if i > 20 : break
-
 	name = each[1]['name']
 	cate = get_cate(each)
 	
-	#name = ft.filter(name)
-	name += ' '.join( tw.nouns(name) )
+	#name = ft.filter(name) + ' '.join( tw.nouns(name) )
+	name = ft.key_name(name)
 
 	d_list.append(name)
 	cate_list.append(cate)
@@ -59,12 +49,8 @@ cate_dict = dict(zip(list(set(cate_list)),range(len(set(cate_list)))))
 # y_list[제품번호] = 카테고리번호
 y_list = []
 
-i = 0
 
 for each in train_df.iterrows() :
-	# i += 1
-	# if i > 20 : break
-
 	cate = get_cate(each)
 	y_list.append(cate_dict[cate])
 

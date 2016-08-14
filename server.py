@@ -1,17 +1,23 @@
 from flask import Flask
 from flask import request
+from bewlib.text import Filter
 import bewlib.predictor as pdt
 import json
+import jpype
+
 
 app = Flask(__name__)
-
+ft = Filter()
 
 @app.route('/classify', methods=['GET'])
 def classify():
-	product = request.args.get('name')
+	jpype.attachThreadToJVM()
+
+	name = request.args.get('name')
+	name = ft.key_name(name)
 
 	output = {
-		'cate' : pdt.predict(product)
+		'cate' : pdt.predict(name)
 	}
 
 	return json.dumps(output), 200, {'Content-Type': 'application/json'}

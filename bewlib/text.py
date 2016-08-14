@@ -3,7 +3,7 @@
 
 import re
 import string
-
+from konlpy.tag import Twitter
 
 class Filter() :
 
@@ -19,30 +19,35 @@ class Filter() :
 			self.progs.append( re.compile('\([^\)]*'+word+'.*?\)') )
 			self.progs.append( re.compile('\[[^\]]*'+word+'.*?\]') )
 
+		self.tw = Twitter()
+
 
 	def char_type(self, char) :
 		# for i in list(' -_\\/') :
 		# 	if char == i :
 		# 		return 1
 
-		if char == ' ' :
+		# if char == ' ' :
+		# 	return 1
+
+		# for i in list(string.ascii_lowercase + string.ascii_uppercase) :
+		# 	if char == i :
+		# 		return 2
+
+		# if char.isdigit() :
+		# 	return 2
+
+		if ord(char) < 128:
 			return 1
-
-		for i in list(string.ascii_lowercase + string.ascii_uppercase) :
-			if char == i :
-				return 2
-
-		if char.isdigit() :
-			return 2
-
-		return 0
+		else :
+			return 0
 
 
 	def filter(self, string) :
-		for prog in self.progs :
-			string = prog.sub('', string)
+		#for prog in self.progs :
+		#	string = prog.sub('', string)
 
-		string = re.sub('[\[\]\(\)]', ' ', string)
+		#string = re.sub('[\[\]\(\)]', ' ', string)
 		string_tmp = ''
 
 		for i in range(0, len(string)-1) :
@@ -53,9 +58,13 @@ class Filter() :
 
 		string = string_tmp + string[-1]
 
-		string = re.sub('( ){2,}', ' ', string)
-		string = string.strip()
+		#string = re.sub('( ){2,}', ' ', string)
+		#string = string.strip()
 
 		return string
 
+
+	def key_name(self, name):
+		return self.filter(name) + ' '.join( self.tw.nouns(name) )
+		
 
