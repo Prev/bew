@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+#
+# BEW (back-end-work) project
+# author: YoungSoo Lee(prevdev@gmail.com)
+
 from flask import Flask
 from flask import request
 from bewlib.text import Filter
@@ -14,6 +19,11 @@ def classify():
 	jpype.attachThreadToJVM()
 
 	name = request.args.get('name')
+
+	# f = open('req.txt', 'a')
+	# f.write(name + '\n')
+	# f.close()
+
 	name = ft.key_name(name)
 
 	output = {

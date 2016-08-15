@@ -1,3 +1,22 @@
+# -*- coding: utf-8 -*-
+#
+# BEW (back-end-work) project
+# author: YoungSoo Lee(prevdev@gmail.com)
+#
+#
+# v1.1
+#	TR / 0.698979591837
+#
+# v1.2 
+# 	C / 0.7042
+#	TR / 0.70612244898
+#
+# v1.3
+#	C / 0.7033
+#	TR / 0.70387755102
+#
+
+
 import pandas as pd
 import numpy as np
 from bewlib.text import Filter
@@ -5,6 +24,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.grid_search import GridSearchCV
 from sklearn.externals import joblib
+
+
+
 
 train_df = pd.read_pickle("data/soma_goods_train.df")
 
@@ -17,8 +39,7 @@ def get_cate(each) :
 ft = Filter()
 
 # Count Vector 관리
-# vectorizer = CountVectorizer(max_df=0.3)
-vectorizer = CountVectorizer(max_df=0.3)
+vectorizer = CountVectorizer(max_df=0.25)
 
 
 # 제품 이름 리스트

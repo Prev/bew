@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-# Author: YoungSoo Lee(prevdev@gmail.com)
+#
+# BEW (back-end-work) project
+# author: YoungSoo Lee(prevdev@gmail.com)
 
 import re
 import string
@@ -33,7 +35,6 @@ class Filter() :
 		# for prog in self.progs :
 		# 	string = prog.sub('', string)
 
-		#string = re.sub('[\[\]\(\)]', ' ', string)
 		string_tmp = ''
 
 		for i in range(0, len(string)-1) :
@@ -43,13 +44,16 @@ class Filter() :
 				string_tmp += ' '
 
 		string = string_tmp + string[-1]
-		string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<0> \g<1> \g<2>', string)
-
+		#string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<0> \g<1> \g<2>', string)
+		string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<1> \g<2>', string)
 
 		return string
 
 
 	def key_name(self, name):
-		return self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
+		return name + ' ' + self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		
+		
+
+
 

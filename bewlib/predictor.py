@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+#
+# BEW (back-end-work) project
+# author: YoungSoo Lee(prevdev@gmail.com)
+
+
 import os 
 from sklearn.externals import joblib
 
