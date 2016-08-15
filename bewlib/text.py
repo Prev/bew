@@ -12,7 +12,7 @@ class Filter() :
 			'백화점', '할인', '쿠폰', '카드', '정품', '해외', '구매',
 			'배송', '이베이', '아마존', 'Mall', '몰', '플라자'
 		)
-
+		
 		self.progs = []
 
 		for word in self.ignore_words :
@@ -23,20 +23,6 @@ class Filter() :
 
 
 	def char_type(self, char) :
-		# for i in list(' -_\\/') :
-		# 	if char == i :
-		# 		return 1
-
-		# if char == ' ' :
-		# 	return 1
-
-		# for i in list(string.ascii_lowercase + string.ascii_uppercase) :
-		# 	if char == i :
-		# 		return 2
-
-		# if char.isdigit() :
-		# 	return 2
-
 		if ord(char) < 128:
 			return 1
 		else :
@@ -44,8 +30,8 @@ class Filter() :
 
 
 	def filter(self, string) :
-		#for prog in self.progs :
-		#	string = prog.sub('', string)
+		# for prog in self.progs :
+		# 	string = prog.sub('', string)
 
 		#string = re.sub('[\[\]\(\)]', ' ', string)
 		string_tmp = ''
@@ -57,14 +43,13 @@ class Filter() :
 				string_tmp += ' '
 
 		string = string_tmp + string[-1]
+		string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<0> \g<1> \g<2>', string)
 
-		#string = re.sub('( ){2,}', ' ', string)
-		#string = string.strip()
 
 		return string
 
 
 	def key_name(self, name):
-		return self.filter(name) + ' '.join( self.tw.nouns(name) )
+		return self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		
 
