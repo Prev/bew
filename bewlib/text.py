@@ -47,10 +47,14 @@ class Filter() :
 		#string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<0> \g<1> \g<2>', string)
 		string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<1> \g<2>', string)
 
+		string = re.sub('([A-Za-z]{2,})[0-9]+', '\g<1>_Series ', string)
+		string = re.sub('([A-Za-z0-9]{2,})-[A-Za-z0-9]+', '\g<1>_Series ', string)
+		
 		return string
 
 
 	def key_name(self, name):
+		#return self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		return name + ' ' + self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		
 		

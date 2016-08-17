@@ -15,6 +15,10 @@
 #	C / 0.7033
 #	TR / 0.70387755102
 #
+# v1.4
+#	C / 0.7078
+#	TR / 0.710612244898
+#
 
 
 import pandas as pd
@@ -39,7 +43,7 @@ def get_cate(each) :
 ft = Filter()
 
 # Count Vector 관리
-vectorizer = CountVectorizer(max_df=0.25)
+vectorizer = CountVectorizer(max_df=0.15)
 
 
 # 제품 이름 리스트
