@@ -25,6 +25,7 @@ def classify():
 	# f.close()
 
 	name = ft.key_name(name)
+	name = ft.repetition_removal(name)
 
 	output = {
 		'cate' : pdt.predict(name)

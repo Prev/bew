@@ -6,6 +6,7 @@
 import re
 import string
 from konlpy.tag import Twitter
+from konlpy.tag import Kkma
 
 class Filter() :
 
@@ -22,6 +23,7 @@ class Filter() :
 			self.progs.append( re.compile('\[[^\]]*'+word+'.*?\]') )
 
 		self.tw = Twitter()
+		self.kkma = Kkma()
 
 
 	def char_type(self, char) :
@@ -49,7 +51,10 @@ class Filter() :
 
 		string = re.sub('([A-Za-z]{2,})[0-9]+', '\g<1>_Series ', string)
 		string = re.sub('([A-Za-z0-9]{2,})-[A-Za-z0-9]+', '\g<1>_Series ', string)
-		
+
+		#string = string.replace('-', '_')
+		#string = string.replace(':', '_')
+
 		return string
 
 
@@ -57,7 +62,16 @@ class Filter() :
 		#return self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		return name + ' ' + self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
 		
-		
+	
+
+	def repetition_removal(self, string) :
+		delimiters = (',', '/', '[', ']', '(', ')', ';', '-')
+		for d in delimiters :
+			string = string.replace(d, ' ')
+
+		arr = string.split(' ')
+		return ' '.join( list(dict(zip(arr, arr))) ) # 단어 중복 제거
+
 
 
 
