@@ -35,4 +35,3 @@ def classify():
 
 if __name__ == '__main__':
 	app.run(debug = True, port=18887, host='0.0.0.0')
-	#app.run(debug = True, port=18887, host='localhost')

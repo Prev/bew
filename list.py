@@ -24,6 +24,7 @@ for each in train_df.iterrows() :
 	cat = ";".join([each[1]['cate1'],each[1]['cate2'],each[1]['cate3']])
 
 	name = ft.filter(name)
+	name = ft.repetition_removal(name)
 
 	if cat not in data :
 		data[cat] = []

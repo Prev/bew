@@ -2,27 +2,6 @@
 #
 # BEW (back-end-work) project
 # author: YoungSoo Lee(prevdev@gmail.com)
-#
-#
-# v1.1
-#	TR / 0.698979591837
-#
-# v1.2 
-# 	C / 0.7042
-#	TR / 0.70612244898
-#
-# v1.3
-#	C / 0.7033
-#	TR / 0.70387755102
-#
-# v1.4
-#	C / 0.7078
-#	TR / 0.710612244898
-#
-# v1.5
-#	C / 0.7078
-#	TR / 0.723673469388
-
 
 import pandas as pd
 import numpy as np
@@ -46,7 +25,8 @@ def get_cate(each) :
 ft = Filter()
 
 # Count Vector 관리
-vectorizer = CountVectorizer(max_df=0.15)
+# vectorizer = CountVectorizer(max_df=0.15)
+vectorizer = CountVectorizer(max_df=0.15, binary=True)
 
 
 # 제품 이름 리스트
@@ -96,13 +76,13 @@ x_list = vectorizer.fit_transform( d_list )
 
 
 print('filtering x_list...')
-x_list[x_list > 1] = 1
+#x_list[x_list > 1] = 1
 
 
 
 # SVM(Support Vector Machine) 을 사용한 분류 학습
 print('creating gs_svc...')
-svc_param = { 'C' : np.logspace(-2,0,20) }
+svc_param = { 'C' : np.logspace(-2,0,500) }
 gs_svc = GridSearchCV( LinearSVC(), svc_param, cv = 5, n_jobs = 4 )
 gs_svc.fit( x_list, y_list )
 

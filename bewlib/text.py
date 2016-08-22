@@ -6,7 +6,8 @@
 import re
 import string
 from konlpy.tag import Twitter
-from konlpy.tag import Kkma
+from konlpy.tag import Mecab
+#from konlpy.tag import Kkma
 
 class Filter() :
 
@@ -23,7 +24,7 @@ class Filter() :
 			self.progs.append( re.compile('\[[^\]]*'+word+'.*?\]') )
 
 		self.tw = Twitter()
-		self.kkma = Kkma()
+		self.mecab = Mecab()
 
 
 	def char_type(self, char) :
@@ -46,7 +47,6 @@ class Filter() :
 				string_tmp += ' '
 
 		string = string_tmp + string[-1]
-		#string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<0> \g<1> \g<2>', string)
 		string = re.sub('(([A-Z][a-z]+)([A-Z][a-z]+))', '\g<1> \g<2>', string)
 
 		string = re.sub('([A-Za-z]{2,})[0-9]+', '\g<1>_Series ', string)
@@ -59,8 +59,7 @@ class Filter() :
 
 
 	def key_name(self, name):
-		#return self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
-		return name + ' ' + self.filter(name) + ' ' + ' '.join( self.tw.nouns(name) )
+		return name + ' ' + self.filter(name) + ' ' + ' '.join( self.mecab.nouns(name) )
 		
 	
 
