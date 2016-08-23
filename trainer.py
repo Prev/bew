@@ -41,7 +41,6 @@ for each in train_df.iterrows() :
 	name = each[1]['name']
 	cate = get_cate(each)
 	
-	#name = ft.filter(name) + ' '.join( tw.nouns(name) )
 	name = ft.key_name(name)
 
 	d_list.append(name)
